@@ -1,0 +1,8 @@
+{"Username":"aiko","Salt":"DvrQWGDUg5rKtbDZL45qGjnbzX2JHzCKY8tZfTxkIJg=","Hash":"moreboobs","Iterations":600000,"Algorithm":"PBKDF2-SHA256"}
+{"Username":"aiko","Salt":"z9BSv7uTRYjUFwaQJorh0engBHEPRDqRT5809nBrsz4=","Hash":"moreboobs","Iterations":600000,"Algorithm":"PBKDF2-SHA256"}
+{"Username":"ayano","Salt":"Jl6VOKMw06fIdUMYIImPJZ1WfYlKb7/z1Sb6okkVaUY=","Hash":"moreboobs","Iterations":600000,"Algorithm":"PBKDF2-SHA256"}
+{"Username":"\\aiko","Salt":"sVc3DnhSimviULgBThQknWmL2UWQ1KNbgPqAyiRyds4=","Hash":"moreboobs","Iterations":600000,"Algorithm":"PBKDF2-SHA256"}
+{"Username":"powder","Salt":"aKkB8lMLZSNQJFAiPVMCzvLvTn01fuiqh/QsNS6uU/4=","Hash":"dCtqu46PPM5fN8bUZp1ZcLmIcTMfDgNzR/i9Idh6Qwk=","Iterations":600000,"Algorithm":"PBKDF2-SHA512"}
+{"Username":"jinx64","Salt":"6ctb7w/72owJdrRYGvKGDYhBChjOwwBfwUeVekdw1Oo=","Hash":"9mTG267mnye37UlRGEr4jjArzYhPti5eqyqaxAmNXeE=","Iterations":600000,"Algorithm":"PBKDF2-SHA512"}
+{"Username":"jinx","Salt":"2CmXHbcEz2btM2jKQET7jqmhP/QYFMT4zEhQfEZkWew=","Hash":"dm7J4Dal57LTL+NMcplKRKUU9+Rxela4HfWfBvuhZus=","Iterations":600000,"Algorithm":"PBKDF2-SHA512"}
+{"Username":"admin","Salt":"gN4UrS/yX3ZmcffU+5KnckxvoCLmI3sn7UYJcv+ELxY=","Hash":"f6+BnJiHd223PYHJbWRzNrzJbWG7lHe/4WKl2QgpFnk=","Iterations":600000,"Algorithm":"PBKDF2-SHA512"}
