@@ -1,5 +1,5 @@
-/*  Comms. It's for communication. Privately.
-    Copyright (C) 2026 A2
+/*  its just for communicating privately called comms
+    Copyright (C) 2026, A2
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -36,6 +36,7 @@ int errorBytesReadTooLarge = 0;
 //var
 const string accdbFile = "accounts.jsonl";
 const string ipaDB = "ipauuid.txt"; 
+double six = 6.6;
 var accdbFileCont = File.ReadAllText(accdbFile);
 if (ipaDBExists(ipaDB) == true) {
     }
