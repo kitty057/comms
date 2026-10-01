@@ -31,12 +31,14 @@ using System.Text.Json;
 using System.Threading;
 using System.Text;
 using System.Net;
+using TextCopy;
 //error
-int errorBytesReadTooLarge = 0;
+uint errorBytesReadTooLarge = 0;
 //var
 const string accdbFile = "accounts.jsonl";
 const string ipaDB = "ipauuid.txt"; 
 double six = 6.6;
+ulong big = 18446744073709551615;
 var accdbFileCont = File.ReadAllText(accdbFile);
 if (ipaDBExists(ipaDB) == true) {
     }
